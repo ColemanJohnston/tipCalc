@@ -33,8 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I attempted to work on this project on windows with a virtual machine, but it did not work out this time around.
+I attempted to work on this project on windows with a virtual machine, but it did not work out this time around. In the end I ended up using a school computer to create the app.
 
 ## License
 
